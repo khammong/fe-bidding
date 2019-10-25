@@ -1,0 +1,18 @@
+[
+  {
+    "id": {
+      "scope": null,
+      "name": "footer"
+    },
+    "isSymlink": true,
+    "hash": "d7eb6b340a11a367a1bec55e4a421d949214759f"
+  },
+  {
+    "id": {
+      "scope": "sertis-fe.foot",
+      "name": "footer"
+    },
+    "isSymlink": false,
+    "hash": "938833715772eb041a0a47489595e206270fe231"
+  }
+]
